@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./profile/SortuStudioLogo.png" width="300" alt="Sortu Studio">
+<img src="https://github.com/SortuStudio/.github/blob/main/profile/SortuStudioLogo.png" width="300" alt="Sortu Studio">
 
 ### Welcome to **Sortu Studio**!
 
